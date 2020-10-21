@@ -1,2 +1,2 @@
 # statistical_classification
-Deriving statisticl tests from binary classifiers
+Deriving statistical tests from binary classifiers
