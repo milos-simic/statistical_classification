@@ -60,7 +60,7 @@ The analysis code is in Jupyter R notebooks, so make sure that you are able to r
 
 ### Data
 
-The settings are specific here because one can create as much data as needed (or wanted). To create the datasets to use in this experiment, run notebook **nn_prepare_data**. 
+The settings are specific here because one can create as much data as needed (or wanted). To create the datasets for this experiment, run notebook **nn_prepare_data**. 
 
 If you navigate to the directory where **nn_prepare_data** is located and type the following command in your command line interface:
 
