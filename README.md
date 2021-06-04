@@ -79,7 +79,7 @@ The normality tests are derived in notebook **nn_evaluate**. Open **nn_evaluate*
 
 ### Analyze the Results
 
-The results obtained in **nn_evaluate** are analyzed in notebook **nn_analyze**. Open and run it to analyze the results.
+The results obtained in **nn_evaluate** are analyzed in notebook **nn_analyze**. Open it and run it to analyze the results.
 
 ## Deriving Statistical Tests of Loan Application Risk
 
