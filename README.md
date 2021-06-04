@@ -2,9 +2,9 @@
 
 This repository is the official implementation of the code to replicate the experiments from paper "How to Control the Error Rates of Binary Classifiers". 
 
-The paper presentes a theoretical framework for **turning binary classifiers into statistical tests** whose class-conditional **error rates can be set in advance** - but without retraining the original classifier!
+The paper presents a theoretical framework for **turning binary classifiers into statistical tests** whose class-conditional **error rates can be set in advance**: without retraining the original classifier!
 
-The code for running the experiments and analyzing their results is in the form of Jupyter notebooks with comments. If you are not familiar with Jupyter, [this short tutorial](https://realpython.com/jupyter-notebook-introduction/) will help you.
+The code for running the experiments and analyzing their results is in the form of Jupyter notebooks with comments. If you are not familiar with Jupyter, you can read [this short tutorial](https://realpython.com/jupyter-notebook-introduction/).
 
 Two experiments were originally run:
 1. The first experiment shows how two **new normality tests** can be derived from a neural network classifier.
