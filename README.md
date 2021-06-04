@@ -4,7 +4,7 @@ This repository is the official implementation of the code to replicate the expe
 
 The paper presents a theoretical framework for **turning binary classifiers into statistical tests** whose class-conditional **error rates can be set in advance**: without retraining the original classifier!
 
-The code for running the experiments and analyzing their results is in the form of Jupyter notebooks with comments. If you are not familiar with Jupyter, you can read [this short tutorial](https://realpython.com/jupyter-notebook-introduction/).
+The code for running the experiments and analyzing their results is in the form of Jupyter notebooks with comments. If you are not familiar with Jupyter, you can read [this short tutorial](https://realpython.com/jupyter-notebook-introduction/). **Don't forget to use your own python and R kernels when you run the notebooks.**
 
 Two experiments were originally run:
 1. The first experiment shows how two **new normality tests** can be derived from a neural network classifier.
