@@ -1,6 +1,6 @@
 # How to Control the Error Rates of Binary Classifiers
 
-This repository is the official implementation of the code to replicate the experiments from study "How to Control the Error Rates of Binary Classifiers". 
+This repository is the official implementation of the code to replicate the experiments from paper "How to Control the Error Rates of Binary Classifiers". 
 
 The paper presentes a theoretical framework for **turning binary classifiers into statistical tests** whose class-conditional **error rates can be set in advance** - but without retraining the original classifier!
 
