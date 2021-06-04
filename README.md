@@ -30,8 +30,6 @@ The following python and R packages were used in the original experiment:
 | statsmodels | 0.12.2 | ggsci | 2.9 |
 |             |        |IRkernel | 1.1.1 |
 
-The codeIf you are not familiar with jupyter, [this tutorial](https://realpython.com/jupyter-notebook-introduction/) will be useful.
-
 ### Python Requirements
 
 The required packages are listed in file requirements.txt that is provided in this repository.
